@@ -1,0 +1,87 @@
+<ns0:request xmlns:ns0="urn://rostelekom.ru/SocialHiring/1.0.1" oktmo="MNSV75_3T">
+    <ns0:Service>
+        <ns0:currentDate>12.10.2021</ns0:currentDate>
+
+                    <ns0:userType>PERSON_RF</ns0:userType>
+        
+        <ns0:orderId>20211221060851</ns0:orderId>
+
+                    <ns0:orderStatusCode>draft</ns0:orderStatusCode>
+        
+        
+        <ns0:TargetId>-10000000208</ns0:TargetId>
+        <ns0:TargetName>Предоставление жилого помещения по договору социального найма</ns0:TargetName>
+
+        <ns0:DepartmentId>-10003772917</ns0:DepartmentId>
+        <ns0:DepartmentName>Уполномоченный орган субъекта Российской Федерации</ns0:DepartmentName>
+        <ns0:okato>14000000000</ns0:okato>
+    </ns0:Service>
+    <ns0:VariantChoice>
+                    <ns0:KP_PG_04>1</ns0:KP_PG_04>
+                                    <ns0:KP_PG_10>1</ns0:KP_PG_10>
+                                                            </ns0:VariantChoice>
+    <ns0:DelegateInfo>2</ns0:DelegateInfo>
+
+
+        
+                <ns0:RecipientPersonalData>
+            <ns0:fullfio>Иванов Иван Иванович</ns0:fullfio>
+            <ns0:lastname>Иванов</ns0:lastname>
+            <ns0:firstname>Иван</ns0:firstname>
+                            <ns0:middlename>Иванович</ns0:middlename>
+                        <ns0:snils>000-000-600 02</ns0:snils>
+                                        <ns0:gender>1</ns0:gender>
+                        <ns0:dateBirth>01.01.1980</ns0:dateBirth>
+            <ns0:citizenship>РОССИЯ</ns0:citizenship>
+            <ns0:Phone>+7(925)5795487</ns0:Phone>
+            <ns0:Email>EsiaTest002@yandex.ru</ns0:Email>
+            <ns0:regAddress>150054, обл. Ярославская, г. Ярославль, пл. Ярославль Главный, д. 1</ns0:regAddress>
+            <ns0:factAddress>150054, обл. Ярославская, г. Ярославль, ул. Кондратьева, д. 11, кв. 4</ns0:factAddress>
+            <ns0:DocumentPersonal>
+                <ns0:typeDoc>Паспорт гражданина РФ</ns0:typeDoc>
+                <ns0:nameDoc>Паспорт гражданина РФ</ns0:nameDoc>
+                                    <ns0:docseries>4606</ns0:docseries>
+                                <ns0:docnumber>576578</ns0:docnumber>
+                <ns0:issuedate>08.09.2016</ns0:issuedate>
+                <ns0:issueorg>ТП № 2 г. Балашиха</ns0:issueorg>
+                                    <ns0:issueidPassportRF>500966</ns0:issueidPassportRF>
+                            </ns0:DocumentPersonal>
+        </ns0:RecipientPersonalData>
+
+        <ns0:DelegatePersonalData>
+            <ns0:fullfio>Иванова Елизавета Викторовна</ns0:fullfio>
+            <ns0:lastname>Иванова</ns0:lastname>
+            <ns0:firstname>Елизавета</ns0:firstname>
+                            <ns0:middlename>Викторовна</ns0:middlename>
+                        <ns0:snils>701-791-040 68</ns0:snils>
+            <ns0:dateBirth>12.10.2021</ns0:dateBirth>
+            <ns0:regAddress>140105, обл. Московская, г. Раменское, ул. Коммунистическая, д. 19, кв. 134</ns0:regAddress>
+            <ns0:DocumentPersonal>
+                <ns0:typeDoc>Паспорт гражданина Российской Федерации</ns0:typeDoc>
+                <ns0:nameDoc>Паспорт гражданина Российской Федерации</ns0:nameDoc>
+                                    <ns0:docseries>3442</ns0:docseries>
+                    <ns0:docnumber>424214</ns0:docnumber>
+                    <ns0:issuedate>08.10.2021</ns0:issuedate>
+                                <ns0:issueorg>ТП 2</ns0:issueorg>
+                                    <ns0:issueidPassportRF>131-231</ns0:issueidPassportRF>
+                            </ns0:DocumentPersonal>
+        </ns0:DelegatePersonalData>
+        <ns0:CompetentOrganization>
+        <ns0:OrganizationID>1023102262622</ns0:OrganizationID>
+        <ns0:Name>Администрация Губкинского городского округа(Управление архитектуры и градостроительной политики)</ns0:Name>
+    </ns0:CompetentOrganization>
+                    <ns0:MethodGettingResults>
+        <ns0:IsPaperDocumentRequired>true</ns0:IsPaperDocumentRequired>
+                    <ns0:MethodGettingResults>2</ns0:MethodGettingResults>
+            </ns0:MethodGettingResults>
+            <ns0:Documents>
+                                                <ns0:DelegateDocFile>
+                        <ns0:CodeDocument>DelegateDocFile</ns0:CodeDocument>
+                        <ns0:Name>test-pdf.pdf</ns0:Name>
+                        <ns0:URL>f_AuthorityDocument_FL.FileUploadComponent.DecisionToAcquireOwnershipOfLeasedProperty.0</ns0:URL>
+                                                    <ns0:type>application/pdf</ns0:type>
+                                            </ns0:DelegateDocFile>
+                                                                                                                        </ns0:Documents>
+    
+
+</ns0:request>

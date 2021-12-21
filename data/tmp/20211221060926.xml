@@ -1,0 +1,70 @@
+<ns0:request xmlns:ns0="urn://rostelekom.ru/SocialHiring/1.0.1" oktmo="MNSV75_3T">
+    <ns0:Service>
+        <ns0:currentDate>12.10.2021</ns0:currentDate>
+
+                    <ns0:userType>PERSON_RF</ns0:userType>
+        
+        <ns0:orderId>20211221060926</ns0:orderId>
+
+                    <ns0:orderStatusCode>draft</ns0:orderStatusCode>
+        
+        
+        <ns0:TargetId>-10000000208</ns0:TargetId>
+        <ns0:TargetName>Предоставление жилого помещения по договору социального найма</ns0:TargetName>
+
+        <ns0:DepartmentId>-10003772917</ns0:DepartmentId>
+        <ns0:DepartmentName>Уполномоченный орган субъекта Российской Федерации</ns0:DepartmentName>
+        <ns0:okato>14401000000</ns0:okato>
+    </ns0:Service>
+    <ns0:VariantChoice>
+                    <ns0:KP_PG_04>1</ns0:KP_PG_04>
+                                    <ns0:KP_PG_10>2</ns0:KP_PG_10>
+                                            <ns0:KP_PG_13>1</ns0:KP_PG_13>
+                                    </ns0:VariantChoice>
+    <ns0:DelegateInfo>1</ns0:DelegateInfo>
+
+
+        <ns0:RecipientPersonalData>
+            <ns0:fullfio>Каменев Игорь Витальевич</ns0:fullfio>
+            <ns0:lastname>Каменев</ns0:lastname>
+            <ns0:firstname>Игорь</ns0:firstname>
+                            <ns0:middlename>Витальевич</ns0:middlename>
+                        <ns0:snils>112-233-446 96</ns0:snils>
+                                        <ns0:gender>1</ns0:gender>
+                        <ns0:dateBirth>17.08.1969</ns0:dateBirth>
+            <ns0:citizenship>РОССИЯ</ns0:citizenship>
+            <ns0:Phone>+7(111)1110111</ns0:Phone>
+            <ns0:Email>yaroslavceva_klava@mail.ru</ns0:Email>
+            <ns0:regAddress>400010, обл. Волгоградская, г. Волгоград, ул. Московская, д. 1, кв. 12</ns0:regAddress>
+                <ns0:factAddress>620034, обл. Свердловская, г. Екатеринбург, ул. Кондратьева, д. 11, кв. 4</ns0:factAddress>
+                                                            <ns0:DocumentPersonal>
+            
+                <ns0:typeDoc>Паспорт гражданина РФ</ns0:typeDoc>
+                <ns0:nameDoc>Паспорт гражданина РФ</ns0:nameDoc>
+                                    <ns0:docseries>5300</ns0:docseries>
+                                <ns0:docnumber>535354</ns0:docnumber>
+                <ns0:issuedate>02.06.2015</ns0:issuedate>
+                <ns0:issueorg>Москва</ns0:issueorg>
+                                    <ns0:issueidPassportRF>787878</ns0:issueidPassportRF>
+                            </ns0:DocumentPersonal>
+        </ns0:RecipientPersonalData>
+            
+            <ns0:CompetentOrganization>
+        <ns0:OrganizationID>1023102262622</ns0:OrganizationID>
+        <ns0:Name>Администрация Губкинского городского округа(Управление архитектуры и градостроительной политики)</ns0:Name>
+    </ns0:CompetentOrganization>
+                    <ns0:DetailsSocialContractList>
+                        <ns0:DetailsSocialContractBlock>
+                <ns0:Number>3422</ns0:Number>
+                <ns0:Date>07.10.2021</ns0:Date>
+                <ns0:Issuer>ЖКУ №1</ns0:Issuer>
+            </ns0:DetailsSocialContractBlock>
+                                </ns0:DetailsSocialContractList>
+        
+        <ns0:MethodGettingResults>
+        <ns0:IsPaperDocumentRequired>true</ns0:IsPaperDocumentRequired>
+                    <ns0:MethodGettingResults>2</ns0:MethodGettingResults>
+            </ns0:MethodGettingResults>
+    
+
+</ns0:request>
