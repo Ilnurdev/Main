@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tns:request xmlns:tns="urn://rostelekom.ru/PermissionObjectOperation/1.0.3" oktmo="MNSV75_3T">
+    <tns:Service>
+        <tns:currentDate>04.10.2021</tns:currentDate>
+                    <tns:userType>PERSON_RF</tns:userType>
+                <tns:orderId>763803958</tns:orderId>
+
+                    <tns:orderStatusCode>draft</tns:orderStatusCode>
+        
+
+                <tns:TargetId>-10000115324</tns:TargetId>
+        <tns:TargetName>Выдача разрешения на ввод объекта в эксплуатацию</tns:TargetName>
+        <tns:DepartmentId>-10003772917</tns:DepartmentId>
+        <tns:DepartmentName>Уполномоченный орган субъекта Российской Федерации</tns:DepartmentName>
+    </tns:Service>
+
+    <tns:Goal>1</tns:Goal>
+
+    <tns:VariantChoice>
+                    <tns:KP_OA_04>2</tns:KP_OA_04>
+            <tns:KP_OA_05>2</tns:KP_OA_05>
+            <tns:KP_OA_06>1</tns:KP_OA_06>
+            <tns:KP_OA_07>2</tns:KP_OA_07>
+
+                            <tns:KP_OA_09>2</tns:KP_OA_09>
+            
+
+
+            <tns:KP_OA_11>2</tns:KP_OA_11>
+            <tns:KP_OA_12>2</tns:KP_OA_12>
+            <tns:KP_OA_13>2</tns:KP_OA_13>
+            <tns:KP_OA_14>2</tns:KP_OA_14>
+            <tns:KP_OA_15>2</tns:KP_OA_15>
+                            </tns:VariantChoice>
+    <tns:DelegateInfo>2</tns:DelegateInfo>
+    
+
+                        <tns:RecipientPersonalData>
+                <tns:fullfio>Иванов Иван Иванович</tns:fullfio>
+                <tns:lastname>Иванов</tns:lastname>
+                <tns:firstname>Иван</tns:firstname>
+                            <tns:middlename>Иванович</tns:middlename>
+                            <tns:snils>000-000-600 22</tns:snils>
+                                    <tns:gender>2</tns:gender>
+                                                <tns:dateBirth>14.01.1950</tns:dateBirth>
+                <tns:citizenship>РОССИЯ</tns:citizenship>
+                <tns:Phone>+7(916)3119400</tns:Phone>
+                <tns:Email>{email=tyu_yty@inbox.ru}</tns:Email>
+                <tns:regAddress>400010, обл. Волгоградская, г. Волгоград, ул. Московская, д. 1, кв. 12</tns:regAddress>
+                <tns:factAddress>620034, обл. Свердловская, г. Екатеринбург, ул. Кондратьева, д. 11, кв. 4</tns:factAddress>
+                <tns:DocumentPersonal>
+                    <tns:typeDoc>Паспорт гражданина РФ</tns:typeDoc>
+                    <tns:nameDoc>Паспорт гражданина РФ</tns:nameDoc>
+                                            <tns:docseries>1231</tns:docseries>
+                                        <tns:docnumber>231232</tns:docnumber>
+                    <tns:issuedate>05.10.2020</tns:issuedate>
+                    <tns:issueorg>УФМС по району Твин Пикс</tns:issueorg>
+                                            <tns:issueidPassportRF>112312</tns:issueidPassportRF>
+                                    </tns:DocumentPersonal>
+            </tns:RecipientPersonalData>
+        
+        
+
+        
+        
+                    <tns:DelegateBusinessmanData>
+                <tns:orgFullname>Коварный Закон Насреддинович</tns:orgFullname>
+                <tns:orgOgrn>307720259390581</tns:orgOgrn>
+                <tns:orgInn>609986564072</tns:orgInn>
+            </tns:DelegateBusinessmanData>
+        
+            
+
+
+
+    <tns:CompetentOrganization>
+        <tns:OrganizationID>1023102262622</tns:OrganizationID>
+        <tns:Name>Администрация Губкинского городского округа (управление архитектуры и градостроительной политики)</tns:Name>
+    </tns:CompetentOrganization>
+
+
+                <tns:DataLandPlot>
+                <tns:IsIDNumberRequired>false</tns:IsIDNumberRequired>
+                <tns:LandPlotCadastralNumber>31:16:0117008:12</tns:LandPlotCadastralNumber>
+            </tns:DataLandPlot>
+
+
+    
+            <tns:ObjectData>
+            <tns:ObjectName>Наименование объекта капитального строительства Наименование объекта капитального строительства Наименование объекта капитального строительства Наименование объекта капитального строительства Наименование объекта капитального строительства Наименование объекта капитального строительства Наименование объекта капитального строительства Наименование объекта капитального строительства Наименование объекта капитального строительства Наименование объекта капитального строительства Наименование объекта капитального строительства Наименование объекта капитального строительства Наименование объекта капитального строительства Наименование объекта капитального строительства</tns:ObjectName>
+                            <tns:FIASLandPlot.fias_full_code>eab39d25-a6f2-42ae-9b30-0509e2737079</tns:FIASLandPlot.fias_full_code>
+                <tns:FIASLandPlot>308009, обл. Белгородская, г. Белгород, ул. 50-летия Белгородской области, д. 4</tns:FIASLandPlot>
+                    </tns:ObjectData>
+    
+
+
+            <tns:BuildingPermit>
+            <tns:Number>333333333333333</tns:Number>
+            <tns:Date>03.04.2021</tns:Date>
+            <tns:Issuer>Уполномоченный орган, выдавший разрешение на строительство</tns:Issuer>
+        </tns:BuildingPermit>
+    
+
+
+    <tns:PermissionObjectOperation>
+            <tns:Number>RU01-2-3456-2020</tns:Number>
+            <tns:Date>03.04.2021</tns:Date>
+            <tns:Issuer>Уполномоченный орган, выдавший разрешение на ввод объекта в эксплуатацию</tns:Issuer>
+    </tns:PermissionObjectOperation>
+        
+        
+        
+
+
+    
+
+
+    <tns:MethodGettingResults>
+        <tns:IsPaperDocumentRequired>false</tns:IsPaperDocumentRequired>
+            </tns:MethodGettingResults>
+
+
+    <tns:Documents>
+        
+        
+                                            <tns:DelegateLegalDocFile>
+                    <tns:CodeDocument>DelgateLegalDocFile</tns:CodeDocument>
+                    <tns:Name>Mix_3840x2160_090-017.jpg</tns:Name>
+                    <tns:URL>f_AuthorityDocument_IP.FileUploadComponent.DecisionToAcquireOwnershipOfLeasedProperty.0</tns:URL>
+                                            <tns:type>image/jpeg</tns:type>
+                                    </tns:DelegateLegalDocFile>
+
+                    
+
+                                    <tns:TitleDocLandPlot>
+                    <tns:CodeDocument>TitleDocLandPlot</tns:CodeDocument>
+                    <tns:Name>Д. Елисеев Рассказы о математике с примерами на языках Python и C.pdf</tns:Name>
+                    <tns:URL>TitleDocLandPlot.FileUploadComponent.DocumentOwnerSquare.0</tns:URL>
+                                            <tns:type>application/pdf</tns:type>
+                                    </tns:TitleDocLandPlot>
+
+                    
+
+
+        
+        
+                                    <tns:DocumentsConfirmingCompliance>
+                    <tns:CodeDocument>DocumentsConfirmingCompliance</tns:CodeDocument>
+                    <tns:Name>Mix_3840x2160_090-017.rar</tns:Name>
+                    <tns:URL>DocumentsConfirmingCompliance.FileUploadComponent.actPD.0</tns:URL>
+                                            <tns:type>-</tns:type>
+                                    </tns:DocumentsConfirmingCompliance>
+
+                    
+        
+                                    <tns:ContractCivilLiabilityInsurance>
+                    <tns:CodeDocument>ContractCivilLiabilityInsurance</tns:CodeDocument>
+                    <tns:Name>Mix_3840x2160_090-017.jpg</tns:Name>
+                    <tns:URL>ContractCivilLiabilityInsurance.FileUploadComponent.actPD.0</tns:URL>
+                                            <tns:type>image/jpeg</tns:type>
+                                    </tns:ContractCivilLiabilityInsurance>
+
+                    
+                                    <tns:TechnicalPlanObject>
+                    <tns:CodeDocument>TechnicalPlanObject</tns:CodeDocument>
+                    <tns:Name>Непрерывное_развитие_API.rar</tns:Name>
+                    <tns:URL>TechnicalPlanObject.FileUploadComponent.TechPlan.0</tns:URL>
+                                            <tns:type>-</tns:type>
+                                    </tns:TechnicalPlanObject>
+
+                        </tns:Documents>
+
+</tns:request>

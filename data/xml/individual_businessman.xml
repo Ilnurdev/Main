@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tns:request oktmo="MNSV75_3T" xmlns:tns="urn://rostelekom.ru/ArchivalDocuments/1.0.1">
+    <tns:Service>
+        <tns:currentDate>10.12.2021</tns:currentDate>
+                    <tns:userType>BUSINESSMAN</tns:userType>
+                <tns:orderId>bash-1</tns:orderId>
+                    <tns:orderStatusCode>draft</tns:orderStatusCode>
+                            <tns:orgBrief>true</tns:orgBrief>
+                <tns:TargetId>-10000115361</tns:TargetId>
+        <tns:TargetName>Выдача архивных справок, архивных копий, архивных выписок и информационных писем</tns:TargetName>
+        <tns:DepartmentId>-10003772917</tns:DepartmentId>
+        <tns:DepartmentName>Уполномоченный орган субъекта Российской Федерации</tns:DepartmentName>
+    </tns:Service>
+
+    
+    <tns:Goal>3</tns:Goal>
+
+    <tns:VariantChoice>
+        
+        <tns:KP_DCPZ_06>1</tns:KP_DCPZ_06>
+
+            </tns:VariantChoice>
+
+    <tns:DelegateInfo>1</tns:DelegateInfo>
+
+                    
+                                <tns:BusinessmanData>
+                <tns:orgFullname>ИП Николаев Н. Н.</tns:orgFullname>
+                <tns:orgOgrn>304500116000157</tns:orgOgrn>
+                <tns:orgInn>745105884167</tns:orgInn>
+                <tns:snils>000-000-000 57</tns:snils>
+                <tns:orgPhone>+7(999)8388383</tns:orgPhone>
+                <tns:orgEmail>gtn039@yandex.ru</tns:orgEmail>
+                <tns:PostAddress>468321, г. Байконур, ул. Ленина, д. 10, кв. 15</tns:PostAddress>
+            </tns:BusinessmanData>
+        
+
+
+
+            
+
+        <tns:CompetentOrganization>
+        <tns:OrganizationID>1023102262622</tns:OrganizationID>
+        <tns:Name>Администрация Губкинского городского округа (Архивный отдел комитета правового обеспечения деятельности)</tns:Name>
+    </tns:CompetentOrganization>
+
+    <tns:Data>
+                
+        
+                                                            <tns:OtherInformationBlock>
+                <tns:OtherName>Отчет</tns:OtherName>
+                <tns:OtherPeriodEnd>06.12.2021</tns:OtherPeriodEnd>
+                <tns:OtherPeriodStart>08.12.1989</tns:OtherPeriodStart>
+                <tns:AnyInformation>Важные сведения для работы</tns:AnyInformation>
+            </tns:OtherInformationBlock>
+            </tns:Data>
+    <tns:MethodGettingResults>
+        <tns:IsPaperDocumentRequired>true</tns:IsPaperDocumentRequired>
+                    <tns:FieldRadio>2</tns:FieldRadio>
+            </tns:MethodGettingResults>
+    </tns:request>
