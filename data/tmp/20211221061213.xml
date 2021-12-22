@@ -1,0 +1,163 @@
+<ns0:request xmlns:ns0="urn://rostelekom.ru/PermissionImportExportFish/1.0.2" oktmo="MNSV75_3T">
+	<ns0:Service>
+		<ns0:currentDate>16.12.2021</ns0:currentDate>
+					<ns0:userType>EMPLOYEE</ns0:userType>
+				<ns0:orderId>20211221061213</ns0:orderId>
+					<ns0:orderStatusCode>draft</ns0:orderStatusCode>
+							<ns0:orgBrief>true</ns0:orgBrief>
+				<ns0:TargetId>-10000000253</ns0:TargetId>
+		<ns0:TargetName>Выдача заключения (разрешительного документа) на вывоз с таможенной территории Евразийского экономического союза живой рыбы и ракообразных</ns0:TargetName>
+		<ns0:DepartmentId>-10003772917</ns0:DepartmentId>
+		<ns0:DepartmentName>Уполномоченный орган субъекта Российской Федерации</ns0:DepartmentName>
+		<ns0:okato>14000000000</ns0:okato>
+	</ns0:Service>
+
+	<ns0:DelegateInfo>1</ns0:DelegateInfo>
+										
+
+
+
+							<ns0:LegalData>
+				<ns0:orgFullname>Общество с ограниченной ответственностью "Балтинформ"</ns0:orgFullname>
+				<ns0:orgOgrn>0001234000009</ns0:orgOgrn>
+				<ns0:orgInn>3905074565</ns0:orgInn>
+				<ns0:orgPhone>+7(995)8789875</ns0:orgPhone>
+				<ns0:orgEmail>Akurbanov@it-one.ru</ns0:orgEmail>
+				<ns0:RegAddress>170021, обл. Тверская, г. Тверь, ул. Докучаева, д. 11, кв. 44</ns0:RegAddress>
+				<ns0:PostAddress>547847, обл. Челябинская, г. Копейск, ул. Светлая, д. 23, кв. 145</ns0:PostAddress>
+				<ns0:Country>КИРГИЗИЯ</ns0:Country>
+				<ns0:RepresentativeInfo>
+											<ns0:category>1</ns0:category>
+										<ns0:fullfio>Иванов Иван Иванович</ns0:fullfio>
+					<ns0:lastname>Иванов</ns0:lastname>
+					<ns0:firstname>Иван</ns0:firstname>
+											<ns0:middlename>Иванович</ns0:middlename>
+										<ns0:Phone>+7(916)3119400</ns0:Phone>
+					<ns0:Email>akurbanov@it-one.ru</ns0:Email>
+															
+					<ns0:DocumentPersonal>
+						<ns0:typeDoc>Паспорт РФ</ns0:typeDoc>
+						<ns0:nameDoc>Паспорт РФ</ns0:nameDoc>
+													<ns0:docseries>0898</ns0:docseries>
+												<ns0:docnumber>667667</ns0:docnumber>
+						<ns0:issuedate>05.08.2016</ns0:issuedate>
+						<ns0:issueorg>Отделом УФМС России по г.  Ярославль</ns0:issueorg>
+													<ns0:issueidPassportRF>889898</ns0:issueidPassportRF>
+											</ns0:DocumentPersonal>
+				</ns0:RepresentativeInfo>
+			</ns0:LegalData>
+			
+		
+	<ns0:ProductData>
+			<ns0:ProductBlock>
+			<ns0:RusProductName>пресноводные брюхоногие моллюски</ns0:RusProductName>
+			<ns0:LatProductName>lala</ns0:LatProductName>
+			<ns0:SectionOfUnifiedListOfProducts>Раздел</ns0:SectionOfUnifiedListOfProducts>
+			<ns0:SectionOfUnifiedListOfProductsCode>"00"</ns0:SectionOfUnifiedListOfProductsCode>
+			<ns0:TnVedEaesCode>74</ns0:TnVedEaesCode>
+			<ns0:TnVedEaesCodeCode>"00"</ns0:TnVedEaesCodeCode>
+			<ns0:ProductQuantity>3</ns0:ProductQuantity>
+			<ns0:Gender>Самка</ns0:Gender>
+			<ns0:Age>4</ns0:Age>
+			<ns0:Identifications>метка 1</ns0:Identifications>
+			<ns0:Weight>23</ns0:Weight>
+			<ns0:ProductUnitOfMeasure>Кубический метр</ns0:ProductUnitOfMeasure>
+			<ns0:ProductUnitOfMeasureCode>"00"</ns0:ProductUnitOfMeasureCode>
+		</ns0:ProductBlock>
+		</ns0:ProductData>
+
+
+	<ns0:CategoryData>
+		<ns0:ISFish>true</ns0:ISFish>
+		<ns0:ISCrayfish>true</ns0:ISCrayfish>
+		<ns0:ISShellfish>true</ns0:ISShellfish>
+		<ns0:ISInvertebrates>false</ns0:ISInvertebrates>
+		<ns0:ISCyst>false</ns0:ISCyst>
+	</ns0:CategoryData>
+
+	<ns0:ExportData>
+		<ns0:ExportPurpose>продажа</ns0:ExportPurpose>
+		<ns0:ToCountry>АВСТРАЛИЯ</ns0:ToCountry>
+		<ns0:ToCountryCode>36</ns0:ToCountryCode>
+		<ns0:Addresser>ресторан</ns0:Addresser>
+		<ns0:ExportDateFrom>20.12.2021</ns0:ExportDateFrom>
+		<ns0:exportDateTo>31.12.2021</ns0:exportDateTo>
+	</ns0:ExportData>
+
+	<ns0:DocumentData>
+		<ns0:contractNumber>32</ns0:contractNumber>
+		<ns0:contractDate>02.12.2021</ns0:contractDate>
+		<ns0:ownershipAgreementNumber>43</ns0:ownershipAgreementNumber>
+		<ns0:ownershipAgreementDate>02.12.2021</ns0:ownershipAgreementDate>
+		<ns0:fishingPermissionNumber>32</ns0:fishingPermissionNumber>
+		<ns0:fishingPermissionDate>01.12.2021</ns0:fishingPermissionDate>
+	</ns0:DocumentData>
+
+	<ns0:CompetentOrganization>
+		<ns0:OrganizationID>1023102262622</ns0:OrganizationID>
+		<ns0:Name>Администрация Губкинского городского округа(Управление архитектуры и градостроительной политики)</ns0:Name>
+					<ns0:INN>000000000000</ns0:INN>
+			<ns0:KPP>0000000000</ns0:KPP>
+			<ns0:Subdivision>Subdivision</ns0:Subdivision>
+			</ns0:CompetentOrganization>
+
+	<ns0:MethodGettingResults>
+		<ns0:IsPaperDocumentRequired>false</ns0:IsPaperDocumentRequired>
+			</ns0:MethodGettingResults>
+
+	<ns0:Documents>
+									<ns0:FishingPermissionDocuments>
+					<ns0:CodeDocument>FishingPermissionDocuments</ns0:CodeDocument>
+					<ns0:Name>4.zip</ns0:Name>
+					<ns0:URL>f_FishingPermissionDocuments.FileUploadComponent.FishingPermissionDocuments.0</ns0:URL>
+											<ns0:type>application/x-zip-compressed</ns0:type>
+									</ns0:FishingPermissionDocuments>
+														<ns0:ownershipAgreementDocuments>
+					<ns0:CodeDocument>ownershipAgreementDocuments</ns0:CodeDocument>
+					<ns0:Name>Документ.docx</ns0:Name>
+					<ns0:URL>f_ownership_agreementDocuments.FileUploadComponent.OwnershipAgreementDocuments.0</ns0:URL>
+											<ns0:type>application/vnd.openxmlformats-officedocument.wordprocessingml.document</ns0:type>
+									</ns0:ownershipAgreementDocuments>
+							<ns0:ownershipAgreementDocuments>
+					<ns0:CodeDocument>ownershipAgreementDocuments</ns0:CodeDocument>
+					<ns0:Name>Документ2.doc</ns0:Name>
+					<ns0:URL>f_ownership_agreementDocuments.FileUploadComponent.OwnershipAgreementDocuments.1</ns0:URL>
+											<ns0:type>application/msword</ns0:type>
+									</ns0:ownershipAgreementDocuments>
+							<ns0:ownershipAgreementDocuments>
+					<ns0:CodeDocument>ownershipAgreementDocuments</ns0:CodeDocument>
+					<ns0:Name>Документ, подтверждающий установление опекипопечительства над ребёнком3.pdf</ns0:Name>
+					<ns0:URL>f_ownership_agreementDocuments.FileUploadComponent.OwnershipAgreementDocuments.2</ns0:URL>
+											<ns0:type>application/pdf</ns0:type>
+									</ns0:ownershipAgreementDocuments>
+														<ns0:contractDocuments>
+					<ns0:CodeDocument>contractDocuments</ns0:CodeDocument>
+					<ns0:Name>Документ, подтверждающий установление опекипопечительства над ребёнком3.pdf</ns0:Name>
+					<ns0:URL>f_contractDocuments.FileUploadComponent.contractDocuments.0</ns0:URL>
+											<ns0:type>application/pdf</ns0:type>
+									</ns0:contractDocuments>
+							<ns0:contractDocuments>
+					<ns0:CodeDocument>contractDocuments</ns0:CodeDocument>
+					<ns0:Name>Документ.docx</ns0:Name>
+					<ns0:URL>f_contractDocuments.FileUploadComponent.contractDocuments.1</ns0:URL>
+											<ns0:type>application/vnd.openxmlformats-officedocument.wordprocessingml.document</ns0:type>
+									</ns0:contractDocuments>
+							<ns0:contractDocuments>
+					<ns0:CodeDocument>contractDocuments</ns0:CodeDocument>
+					<ns0:Name>Документ2.doc</ns0:Name>
+					<ns0:URL>f_contractDocuments.FileUploadComponent.contractDocuments.2</ns0:URL>
+											<ns0:type>application/msword</ns0:type>
+									</ns0:contractDocuments>
+					
+		
+		
+		
+		
+													<ns0:OtherDocuments>
+					<ns0:CodeDocument>OtherDocuments</ns0:CodeDocument>
+					<ns0:Name>4.zip</ns0:Name>
+					<ns0:URL>f_OtherDocuments.FileUploadComponent.OtherDocuments.0</ns0:URL>
+											<ns0:type>application/x-zip-compressed</ns0:type>
+									</ns0:OtherDocuments>
+						</ns0:Documents>
+</ns0:request>

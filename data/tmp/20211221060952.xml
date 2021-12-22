@@ -1,0 +1,60 @@
+<ns0:request xmlns:ns0="urn://rostelekom.ru/ArchivalDocuments/1.0.1" oktmo="MNSV75_3T">
+    <ns0:Service>
+        <ns0:currentDate>10.12.2021</ns0:currentDate>
+                    <ns0:userType>BUSINESSMAN</ns0:userType>
+                <ns0:orderId>20211221060952</ns0:orderId>
+                    <ns0:orderStatusCode>draft</ns0:orderStatusCode>
+                            <ns0:orgBrief>true</ns0:orgBrief>
+                <ns0:TargetId>-10000115361</ns0:TargetId>
+        <ns0:TargetName>Выдача архивных справок, архивных копий, архивных выписок и информационных писем</ns0:TargetName>
+        <ns0:DepartmentId>-10003772917</ns0:DepartmentId>
+        <ns0:DepartmentName>Уполномоченный орган субъекта Российской Федерации</ns0:DepartmentName>
+    </ns0:Service>
+
+    
+    <ns0:Goal>3</ns0:Goal>
+
+    <ns0:VariantChoice>
+        
+        <ns0:KP_DCPZ_06>1</ns0:KP_DCPZ_06>
+
+            </ns0:VariantChoice>
+
+    <ns0:DelegateInfo>1</ns0:DelegateInfo>
+
+                    
+                                <ns0:BusinessmanData>
+                <ns0:orgFullname>ИП Николаев Н. Н.</ns0:orgFullname>
+                <ns0:orgOgrn>304500116000157</ns0:orgOgrn>
+                <ns0:orgInn>745105884167</ns0:orgInn>
+                <ns0:snils>000-000-000 57</ns0:snils>
+                <ns0:orgPhone>+7(999)8388383</ns0:orgPhone>
+                <ns0:orgEmail>gtn039@yandex.ru</ns0:orgEmail>
+                <ns0:PostAddress>468321, г. Байконур, ул. Ленина, д. 10, кв. 15</ns0:PostAddress>
+            </ns0:BusinessmanData>
+        
+
+
+
+            
+
+        <ns0:CompetentOrganization>
+        <ns0:OrganizationID>1023102262622</ns0:OrganizationID>
+        <ns0:Name>Администрация Губкинского городского округа(Управление архитектуры и градостроительной политики)</ns0:Name>
+    </ns0:CompetentOrganization>
+
+    <ns0:Data>
+                
+        
+                                                            <ns0:OtherInformationBlock>
+                <ns0:OtherName>Отчет</ns0:OtherName>
+                <ns0:OtherPeriodEnd>06.12.2021</ns0:OtherPeriodEnd>
+                <ns0:OtherPeriodStart>08.12.1989</ns0:OtherPeriodStart>
+                <ns0:AnyInformation>Важные сведения для работы</ns0:AnyInformation>
+            </ns0:OtherInformationBlock>
+            </ns0:Data>
+    <ns0:MethodGettingResults>
+        <ns0:IsPaperDocumentRequired>true</ns0:IsPaperDocumentRequired>
+                    <ns0:FieldRadio>2</ns0:FieldRadio>
+            </ns0:MethodGettingResults>
+    </ns0:request>
